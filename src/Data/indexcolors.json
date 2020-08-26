@@ -1,0 +1,36 @@
+[
+    {
+        "index":"Red Color",
+        "value":"Red Color",
+        "color":"red"
+    },
+    {
+        "index":"Blue Color",
+        "value":"Blue Color",
+        "color":"blue"
+    },
+    {
+        "index":"Brown Color",
+        "value":"Brown Color",
+        "color":"brown"
+    },
+    {
+        "index":"Yellow Color",
+        "value":"Yellow Color",
+        "color":"yellow"
+    },
+    {
+        "index":"Pink Color",
+        "value":"Pink Color",
+        "color":"pink"
+    },{
+        "index":"Green Color",
+        "value":"Green Color",
+        "color":"green"
+    },
+    {
+        "index":"Cyan Color",
+        "value":"Cyan Color",
+        "color":"cyan"
+    }
+]
